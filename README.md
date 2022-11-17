@@ -1,2 +1,2 @@
-# Etiya-E-itim
-Etiya Eğitim 1.Hafta
+# Etiya-Eğitim
+Etiya Eğitim 1.Hafta Ödev
